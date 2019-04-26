@@ -1,0 +1,44 @@
+{
+	"gameInfo": {
+		"name": "Idle Hero v0.1",
+		"title": "",
+		"version": "0.1",
+		"created": "",
+		"modified": "",
+		"creators": [{
+			"name":"Michael Habib",
+			"email":"",
+			"website":""
+		}]
+	},
+	"defaultSettings": {
+		
+	},
+	"assets": {
+		"images": {
+			"sky": "assets/images/sky.png",
+			"ground": "assets/images/platform.png",
+			"star": "assets/images/star.png"
+		},
+		"spiritSheets": {
+			"dude": {
+				"file": "",
+				"w": 32,
+				"h": 48
+			}
+		}
+	},
+	"groups": {
+
+	},
+	"availableObjects": {
+		"Items": {
+			"gold": {},
+			"food": {},
+			"wood": {}
+		},
+		"generators": {
+			"farm": {}
+		}
+	}
+}
